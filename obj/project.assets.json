@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m1704323\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "I:\\Desktop\\360Fusion\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\m1704323\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "I:\\Desktop\\360Fusion\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\m1704323\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m1704323\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "I:\\Desktop\\360Fusion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
